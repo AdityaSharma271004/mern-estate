@@ -16,7 +16,7 @@ Trust MERN Estate for your real estate journey, where innovation meets reliabili
 ## Authors
 
 - **Aditya Sharma**
-- 
+  
 ## Features
 
 - User authentication 
